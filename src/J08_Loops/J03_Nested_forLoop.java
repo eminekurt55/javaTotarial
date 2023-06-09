@@ -16,6 +16,7 @@ içiçe döngülerde en içteki döngü en önce çalışır..
             {// en diş döngü
                 System.out.println("suan bulundugun kat =" + kat);
                 for (int daire = 1; daire <= 4; daire++) {
+                    // /en icteki loop buradaki loop sayisi bitmeden distaki loop a gecemez
                     System.out.println("daire =" + daire);
 
                 }

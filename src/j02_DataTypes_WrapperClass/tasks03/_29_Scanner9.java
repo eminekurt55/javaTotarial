@@ -14,7 +14,8 @@ public class _29_Scanner9 {
 
         Scanner input =new Scanner(System.in);
         System.out.println("boyunuzu giriniz =");
-        Float boy = input.nextFloat();
+        float boy = input.nextFloat();
+        System.out.println(boy);
 
 
 

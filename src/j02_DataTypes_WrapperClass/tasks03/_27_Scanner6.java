@@ -14,6 +14,7 @@ public class _27_Scanner6 {
         Scanner input = new Scanner(System.in);
         System.out.println("dogum gününüzü giriniz :");
         String tarih = input.nextLine();
+        System.out.println(tarih);
 
     }
 }

@@ -14,8 +14,8 @@ public class _23_Scanner2 {
 
 
         Scanner inpute = new Scanner(System.in);
-        System.out.println("yasinizi giriniz:");
-        Integer yas = inpute.nextInt();
+        System.out.println("herhangi bir sayi giriniz :");
+        int sayi = inpute.nextInt();
 
 
 

@@ -15,6 +15,7 @@ public class _26_Scanner5 {
         Scanner input = new Scanner(System.in);
         System.out.print("10 sene önceki yasadığınız şehri giriniz: ");
         String sehir = input.nextLine();
+        System.out.println(sehir);
 
 
 

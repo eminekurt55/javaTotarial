@@ -12,5 +12,14 @@ public class _24_ComparisonOperators_bigger {
 
         // Kodu aşağıya yazınız.
 
+        int num1 = 120;
+        int num2 =158 ;
+
+        System.out.println( num1 > num2 );  //false
+
+
+
+
+
     }
 }

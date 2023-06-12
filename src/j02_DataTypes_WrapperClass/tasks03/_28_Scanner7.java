@@ -13,9 +13,11 @@ public class _28_Scanner7 {
 
         //Kodu aşağıya yazınız.
 
-        //Scanner input = new Scanner(System.in);
-        //System.out.println("bir banka hesabınız varMı :");
-        //Boolean bankaHesabı =input nextBoolean(Boolean.TRUE);
+        Scanner input = new Scanner(System.in);
+        System.out.println("bir banka hesabınız varMı :");
+        boolean varMi = input.nextBoolean();
+        System.out.println(varMi);
+
 
 
 

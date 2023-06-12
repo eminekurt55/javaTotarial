@@ -13,13 +13,13 @@ public class Task04 {
 
         System.out.print("Isim soyisim: ");
         String isimsoyad =input.nextLine();
-        System.out.println("yas =");
+        System.out.print("yas =");
         int yas = input.nextInt();
-        System.out.println("kilo =");
+        System.out.print("kilo =");
         int kilo = input.nextInt();
-        System.out.println("boy =");
+        System.out.print("boy =");
         double boy = input.nextDouble();
-        System.out.println("salona devam edeceginiz ay süreniz =");
+        System.out.print("salona devam edeceginiz ay süreniz =");
         int süre= input.nextInt();
 
         Integer tutar = süre*20;

@@ -10,6 +10,15 @@ public class _20_ComparisonOperators_bigger_equal {
 
         //Kodu aşağıya yazınız.
 
+         float flt1 = 14 ;
+         float flt2 = 17 ;
+
+        System.out.println(flt1 >= flt2);
+        System.out.println(flt1 > flt2);
+
+
+
+
 
     }
 }

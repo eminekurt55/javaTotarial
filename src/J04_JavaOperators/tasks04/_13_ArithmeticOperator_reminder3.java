@@ -7,10 +7,15 @@ public class _13_ArithmeticOperator_reminder3 {
         /* Verilen iki int hakkında,
             num1'in num2'ye bölümünden kalanı yazdırınız.  */
 
-
-
         //Kodu aşağıya yazınız.
 
-
+     int num1 = 55 ;
+     int num2 =4 ;
+     
+     int result = num1 /num2 ;
+        System.out.println("result = " + result);
+        
+        
+        
     }
 }

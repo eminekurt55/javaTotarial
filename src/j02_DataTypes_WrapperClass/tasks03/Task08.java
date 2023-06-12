@@ -12,10 +12,10 @@ public class Task08 {
 
         Scanner input = new Scanner (System.in);
 
-        System.out.println("vize1 gir");
-        Integer v1 = input.nextInt();
-        System.out.println("vize2 gir");
-        Integer v2 = input.nextInt();
+        System.out.println("vize1 gir :");
+        int v1 = input.nextInt();
+        System.out.println("vize2 gir :");
+        int v2 = input.nextInt();
         System.out.println("final notlarını gir=");
         int fnl = input.nextInt();
 
@@ -25,6 +25,7 @@ public class Task08 {
         System.out.println("final notun="+ finalNot);
 
         int gecmeNotu = vizeOrtalama+finalNot;
+
         System.out.println("gecme notunu ="+ gecmeNotu);
 
 

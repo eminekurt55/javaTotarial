@@ -15,11 +15,12 @@ public class Task06 {
         hipotenus: 13                         c = √(a^2 + b^2)                  */
 
      Scanner input = new Scanner(System.in);
-        System.out.println("birinci kenar: ");
-        int kenar1 = input.nextInt();
-        System.out.println("ikinci kenar :");
-        int kenar2 = input.nextInt();
-        System.out.println("hipotenus: "+ (((kenar1*2+kenar2*2)/2)));
+        System.out.print("birinci kenar: ");
+        double kenar1 = input.nextInt();
+        System.out.print("ikinci kenar :");
+        double kenar2 = input.nextInt();
+        double hipo = Math.sqrt((kenar1*kenar1)+(kenar2*kenar2));
+        System.out.println("hipotenus: "+hipo);     //hipotenus: 13.0
 
 
             //buna bak hipotenüs formülüne

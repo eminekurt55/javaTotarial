@@ -14,7 +14,8 @@ public class _30_Scanner8 {
 
         Scanner inpute = new Scanner(System.in);
         System.out.println("bir ağırlık giriniz =");
-        Byte kg = inpute.nextByte();
+        byte kg = inpute.nextByte();
+        System.out.println(kg);
 
 
 

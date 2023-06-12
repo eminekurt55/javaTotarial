@@ -8,9 +8,16 @@ public class _11_ArithmeticOperator_reminder1 {
             num1 'in   num2'ye bölümünden kalanı, int sonuc'a  eşitleyin.
             int sonucu yazdırın.  */
 
-
-
         //Kodu aşağıya yazınız.
+
+        int num1 = 50 ;
+        int num2 = 5 ;
+
+        int result = num1/num2 ;
+        System.out.println("result = " + result);
+
+
+
 
 
 

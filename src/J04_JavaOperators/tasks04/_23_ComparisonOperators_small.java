@@ -11,6 +11,16 @@ public class _23_ComparisonOperators_small {
 
         //  Kodu aşağıya yazınız.
 
+        double num1 = 14.23 ;
+        double num2 = 14.23 ;
+
+        System.out.println( num1 < num2);  //false
+
+
+
+
+
+
 
     }
 }

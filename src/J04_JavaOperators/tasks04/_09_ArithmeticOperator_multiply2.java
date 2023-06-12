@@ -8,11 +8,20 @@ public class _09_ArithmeticOperator_multiply2 {
         Bu 4 doubleyi  birbiriyle çarpın ve sonuca  eşitleyin.
         Double sonucu yazdırın.   */
 
-
-
         //Kodu aşağıya yazınız.
 
 
+        double num1 = 1.55;
+        double num2 = 2.45;
+        double num3 = 1.56;
+        double num4 = 5.55;
+        
+        double result = num1 * num2 * num3 * num4 ;
+        System.out.println("result = " + result);
+        
+        
+        
+        
 
     }
 }

@@ -12,6 +12,14 @@ public class _21_ComparisonOperators_not_equal {
 
         // Kodu aşağıya yazınız.
 
+        double num1 = 14.23 ;
+        double num2 = 19.52 ;
+
+        System.out.println(num1 != num2); //true
+
+
+
+
 
     }
 }

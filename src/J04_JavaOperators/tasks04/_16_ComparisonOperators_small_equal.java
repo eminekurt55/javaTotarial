@@ -12,6 +12,15 @@ public class _16_ComparisonOperators_small_equal {
 
         // Kodu aşağıya yazınız.
 
+        int num1 = 13 ;
+        int num2 = 13 ;
+
+        System.out.println(num1<=num2);
+
+
+
+
+
 
     }
 }

@@ -11,6 +11,16 @@ public class _19_ComparisonOperators_equals {
 
         // Kodu aşağıya yazdırınız.
 
+        String str1 = "Apple" ;
+        String str2 = "Apple" ;
+
+        System.out.println(str1==str2);
+
+
+
+
+
+
 
     }
 }

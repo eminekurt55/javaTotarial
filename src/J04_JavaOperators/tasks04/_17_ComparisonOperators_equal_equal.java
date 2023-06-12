@@ -9,5 +9,13 @@ public class _17_ComparisonOperators_equal_equal {
             Değilse false  */
 
         //Scanner
+
+        int num1 = 15;
+        int num2 = 20;
+
+
+        System.out.println(num1==num2);
+
+
     }
 }

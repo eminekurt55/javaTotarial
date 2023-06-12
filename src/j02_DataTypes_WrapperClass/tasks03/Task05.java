@@ -17,12 +17,12 @@ public class Task05 {
         System.out.println("Sayıyı giriniz: ");
         int sayı2 = input.nextInt();
 
-        int tolama = sayı1+sayı2;
+        int toplama = sayı1+sayı2;
         int cıkarma = sayı1-sayı2;
         int bölme = sayı1/sayı2;
         int carpma = sayı1*sayı2;
 
-        System.out.println("Toplam: "+tolama);
+        System.out.println("Toplam: "+toplama);
         System.out.println("cıkarma = " + cıkarma);
         System.out.println("bölme = " + bölme);
         System.out.println("carpma = " + carpma);

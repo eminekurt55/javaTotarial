@@ -21,16 +21,17 @@ public class Task02 {
 
      Scanner input = new Scanner(System.in);
 
-     //System.out.print("Boyunuz : ");
-     //Double boy = input.nextDouble();
+     System.out.print("Boyunuz : ");
+     double boy = input.nextDouble();
 //
-     //System.out.println("kilonuz :");
-     //int kilo = input.nextInt();
+     System.out.println("kilonuz :");
+     double kilo = input.nextInt();
 
-        //double VKE=kilo/(boy*boy);
-        //System.out.println("Vucut kutle endeksiniz : "+VKE);//Vucut kutle endeksiniz : 24.691358024691358
-//
-        //System.out.println("VKEtamsayı="+(VKE.intValue())); //VKEtamsayı=24
+     double VKE=kilo/(boy*boy);
+        System.out.println("Vucut kutle endeksiniz : "+VKE);//Vucut kutle endeksiniz : 24.691358024691358
+
+        System.out.println("VKE double="+VKE); //VKEdouble=24.6913580246913
+        System.out.println("VKE int="+(int)VKE); //VKEtamsayı=24
 
     }
 }

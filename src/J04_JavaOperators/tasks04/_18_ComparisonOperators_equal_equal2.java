@@ -16,5 +16,11 @@ public class _18_ComparisonOperators_equal_equal2 {
         double num2 = dp.nextDouble();
 
         // Kodu aşağıya yazınız. BU SATIRIN YUKARISINI DEĞİŞTİRMEYİNİZ.
+
+        System.out.println(num1==num2);
+
+
+
+
     }
 }

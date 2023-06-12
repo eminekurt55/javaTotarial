@@ -12,5 +12,13 @@ public class _15_ComparisonOperators_smaller {
 
         // Kodu buraya yazınız.
 
+        int sayi1 =17 ;
+        int sayi2 =20 ;
+
+        System.out.println( sayi1 < sayi2 );
+
+
+
+
     }
 }
